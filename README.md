@@ -1,2 +1,0 @@
-# MLProject
-My introductory project
